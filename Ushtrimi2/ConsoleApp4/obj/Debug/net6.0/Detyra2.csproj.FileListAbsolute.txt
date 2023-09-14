@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Ushtrimi2\ConsoleApp4\bin\Debug\net6.0\Detyra2.exe
+C:\Users\USER\Desktop\Ushtrimi2\ConsoleApp4\bin\Debug\net6.0\Detyra2.deps.json
+C:\Users\USER\Desktop\Ushtrimi2\ConsoleApp4\bin\Debug\net6.0\Detyra2.runtimeconfig.json
+C:\Users\USER\Desktop\Ushtrimi2\ConsoleApp4\bin\Debug\net6.0\Detyra2.dll
+C:\Users\USER\Desktop\Ushtrimi2\ConsoleApp4\bin\Debug\net6.0\Detyra2.pdb
+C:\Users\USER\Desktop\Ushtrimi2\ConsoleApp4\obj\Debug\net6.0\Detyra2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Ushtrimi2\ConsoleApp4\obj\Debug\net6.0\Detyra2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Ushtrimi2\ConsoleApp4\obj\Debug\net6.0\Detyra2.AssemblyInfo.cs
+C:\Users\USER\Desktop\Ushtrimi2\ConsoleApp4\obj\Debug\net6.0\Detyra2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Ushtrimi2\ConsoleApp4\obj\Debug\net6.0\Detyra2.dll
+C:\Users\USER\Desktop\Ushtrimi2\ConsoleApp4\obj\Debug\net6.0\refint\Detyra2.dll
+C:\Users\USER\Desktop\Ushtrimi2\ConsoleApp4\obj\Debug\net6.0\Detyra2.pdb
+C:\Users\USER\Desktop\Ushtrimi2\ConsoleApp4\obj\Debug\net6.0\Detyra2.genruntimeconfig.cache
+C:\Users\USER\Desktop\Ushtrimi2\ConsoleApp4\obj\Debug\net6.0\ref\Detyra2.dll

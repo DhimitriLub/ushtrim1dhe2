@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Ushtrimi1\Ushtrimi1\bin\Debug\Ushtrimi1.exe.config
+C:\Users\User\Desktop\Ushtrimi1\Ushtrimi1\bin\Debug\Ushtrimi1.exe
+C:\Users\User\Desktop\Ushtrimi1\Ushtrimi1\bin\Debug\Ushtrimi1.pdb
+C:\Users\User\Desktop\Ushtrimi1\Ushtrimi1\obj\Debug\Ushtrimi1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ushtrimi1\Ushtrimi1\obj\Debug\Ushtrimi1.exe
+C:\Users\User\Desktop\Ushtrimi1\Ushtrimi1\obj\Debug\Ushtrimi1.pdb
+C:\Users\USER\Desktop\C#Ushtrimi1\Ushtrimi1\bin\Debug\Ushtrimi1.exe.config
+C:\Users\USER\Desktop\C#Ushtrimi1\Ushtrimi1\bin\Debug\Ushtrimi1.exe
+C:\Users\USER\Desktop\C#Ushtrimi1\Ushtrimi1\bin\Debug\Ushtrimi1.pdb
+C:\Users\USER\Desktop\C#Ushtrimi1\Ushtrimi1\obj\Debug\Ushtrimi1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#Ushtrimi1\Ushtrimi1\obj\Debug\Ushtrimi1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#Ushtrimi1\Ushtrimi1\obj\Debug\Ushtrimi1.exe
+C:\Users\USER\Desktop\C#Ushtrimi1\Ushtrimi1\obj\Debug\Ushtrimi1.pdb
+C:\Users\USER\Desktop\Ushtrimi1\Ushtrimi1\obj\Debug\Ushtrimi1.csproj.AssemblyReference.cache
